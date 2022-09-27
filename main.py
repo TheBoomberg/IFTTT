@@ -43,3 +43,5 @@ async def service_setup():
         "data": [0, 3, 4]
         
     }
+
+print('This code is pushed via devops')
